@@ -1,1 +1,1 @@
-alert('Hola');
+alert('Login v2');
